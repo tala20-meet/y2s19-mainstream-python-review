@@ -1,13 +1,13 @@
 # Part 1 of the Python Review lab.
 
 def hello_world():
-	pass
+	return(hello world)
 
 def greet_by_name(name):
-	pass
+	return("hello" name)
 
 def encode(x):
-	pass
+	return()
 
 def decode(y):
 	pass
